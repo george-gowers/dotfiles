@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = georgegowers@gmail.com
+	name = George Gowers
